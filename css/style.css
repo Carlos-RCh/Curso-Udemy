@@ -1,0 +1,131 @@
+/* body {
+     font-family: monospace;   sepraracion entre letras 
+    margin: 0;  
+    padding: 0;
+background-image: url("https://wallpapers.com/images/hd/luffy-d-monkey-manga-pr51kcyyk509rjx2.jpg");
+background-attachment: fixed;
+}
+
+
+
+h1 {
+    color: #7C3E66;
+    font-size: 50px
+}
+
+h3 {
+    color: #243A73;
+} */
+
+/* ul{
+    margin: 0;
+    padding: 0;
+} */
+
+/* 
+
+.header {
+    position: relative;
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+
+.header-cont {
+    height: 30px;
+    width: 250px;
+    background-color: #243A73;
+    color: white;
+    padding: 0;
+    float: left;
+    margin: 40px 0 0 15%;
+    text-align: center; 
+}
+
+ */
+
+/* 
+.items-nav {
+
+    display: inline-block;
+    margin: auto 15px auto 15px;
+    font-size: larger;
+}
+
+.browser {
+    width: 70%;
+    height: 200px;
+    background-color: #243A73;
+    color: #FFFFFF;
+
+
+    margin: 15px auto 0 auto;
+} */
+
+
+/* 
+.data {
+
+    width: 95%;
+    height: 50px;
+    background-color: #7C3E66;
+    margin: 0 auto;
+}
+
+.buscador{
+    width: 500px;
+  height: 30px;
+} */
+
+/* 
+
+.content{
+    width: 70%;
+    height: 100%;
+    margin: 15px auto 0 auto;
+  border: solid;
+    border-width:10px;
+}
+ */
+
+/*  EJEMPLOS A UTULIZAR A FUTURO
+[ 
+    border::solid;
+    border-width:50px;
+    border-widht 0px 10px 20px  30px; // arriba derecha abajo izquierda (manesilla del reloj)
+    border-top: 0px; // anula SOLO el borde de arriba
+
+    padding:10px; // espacio entre el texto con los bordes
+    margin:20px; // espacio borde y elementos exteriores
+
+] */
+/* EJEMPLOS PARA DIVS  
+ 
+ class{
+
+        visibility: hidden;     // solo se hace invisible, sigue su presencia 
+        margin: 0 auto 0 auto;  // centrar los DIV  
+        posisition: relative;  // no afecta otro elemento en pantalla, pueden sobreponerse incluso 
+        posisition: absolute;  // margen si afecta los otros, es con respecto a div padre, en el que se encuentra
+        posisition: fixed;     // deja fijo el div, si navegas hacia abajo se queda en pantalla
+        top, botton, left, right: 30px; // distancia con el limite 
+        display: inline-block;  // puede estar en la misma linea  [][][] y no debajo del otro
+ }
+*/
+
+/* CLASS SELECTOR 
+.circular {
+    border-radius: 100%;
+}
+
+ hover afecta momentoneamente 
+.circular:hover {
+    border-radius: 30%;
+
+}
+
+
+ ID SELECTOR 
+#demo-id {
+    font-size: 30px;
+} */
